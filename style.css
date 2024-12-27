@@ -1,0 +1,144 @@
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+  }
+  .button{
+    width: 150px;
+    height: 40px;
+    color: pink;
+    border: 2px solid pink;
+    background: none;
+  }
+  .p:hover{
+    color: pink;}
+    .section-one{
+        background-image: url(./image\ 4\ \(1\).png);
+        width: 1500px;
+        height: 700px;
+        margin-top: 10px;
+        display: flex;
+        justify-content: space-around;
+        
+        background-size: cover;
+       }
+       .pik{
+         width: 400px;
+         font-size: 25px;
+         color: white;
+       }
+       .image{
+         width: 360px;
+         height: 382px;
+        
+       }
+       .left{
+         margin-top: 140px;
+       }
+       .but{
+         width: 150px;
+         height: 40px;
+         margin-top: 20px;
+         background-color: crimson;
+         color: white;
+         border: none;
+         border-radius: 5px;
+       }
+       .right{
+         margin-top: 118px;
+       }
+       .xiz{
+        text-align: center;
+        font-size: 30px;
+        margin-top: 10px;
+      }
+      .textik{
+        width: 400px;
+      }
+     .section-two{
+        display: flex;
+        gap: 100px;
+        margin-top: 20px;
+        
+     }
+     .rasm{
+        margin-left: 150px;
+     }
+     .h2{
+      margin-top: 40px;
+     }
+     .section-three{
+        display: flex;
+        gap: 40px;
+        margin-top: 20px;
+        justify-content: center;
+     }
+     .txt{
+        width: 500px;
+        margin-left: 200px;
+     }
+     .terapiya{
+        margin-left: 150px;}
+
+        .akm{
+            margin-top: 40px;
+         }
+        h1{
+            font-size: 40px;
+            text-align: center;
+        }
+        .vsyo{
+            margin-top: 50px;
+            background-color: #0EB4C1;
+            width: 1040px;
+            height: 400px;
+        }
+        .picture{
+            width: 400px;
+            height: 300px;
+        }
+        .section-four{
+            display: flex;
+            justify-content: space-around;
+            margin-top: 10px;
+        }
+        .plar:hover{
+            color: crimson;
+        }
+        .plar{
+            color: white;
+        }
+        footer{
+            background-color: black;
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+        }
+        .ohiri{
+            display: flex;
+            gap: 20px;
+            margin-right: 25px;
+        }
+   .hh{
+    background-color: #0EB4C1;
+    padding-top: 100px;
+   }
+   .dd{
+    text-align: center;
+    font-size: 40px;
+   }
+   .zz{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+   }
+   
+      
+       
